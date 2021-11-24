@@ -8,3 +8,4 @@
 | 2         | [Progress Steps](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Progress-Steps)             |
 | 3         | [Rotating Navigation](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Rotating-Navigation)   |
 | 4         | [Hidden Search Widget](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Hidden-Search-Widget) |
+| 5         | [Blurry Loading](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Blurry-Loading)             |
