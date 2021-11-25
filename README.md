@@ -11,3 +11,4 @@
 | 5         | [Blurry Loading](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Blurry-Loading)             |
 | 6         | [Scroll Animation](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Scroll-Animation)         |
 | 7         | [Split Landing Page](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Split-Landing-Page)     |
+| 8         | [Form Wave Animation](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Form-Wave-Animation)   |
