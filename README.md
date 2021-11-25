@@ -10,3 +10,4 @@
 | 4         | [Hidden Search Widget](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Hidden-Search-Widget) |
 | 5         | [Blurry Loading](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Blurry-Loading)             |
 | 6         | [Scroll Animation](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Scroll-Animation)         |
+| 7         | [Split Landing Page](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Split-Landing-Page)     |
