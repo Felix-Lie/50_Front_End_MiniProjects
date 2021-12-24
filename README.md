@@ -24,7 +24,7 @@
 | 18        | [Background Slider](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Background-Slider)                       |
 | 19        | [Theme Clock](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Theme-Clock)                                   |
 | 20        | [Button Ripple Effect](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Button-Ripple-Effect)                 |
-| 21        | [Drag N Drop](https://github.com/Felix-Lie/50_Front_End_Projects/tree/mainDrag-N-Drop)                                    |
+| 21        | [Drag N Drop](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Drag-N-Drop)                                   |
 | 22        | [Drawing App](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Drawing-App)                                   |
 | 23        | [Kinetic CSS Loader](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Kinetic-CSS_Loader)                     |
 | 24        | [Content Placeholder](https://github.com/Felix-Lie/50_Front_End_Projects/tree/main/Content-Placeholder)                   |
